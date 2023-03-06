@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Princee Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alter="conding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1_still_2x.gif?compress=1&resize=400x300">
+
+<img align="center" alter="conding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1_still_2x.gif?compress=1&resize=400x300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princee-tech&label=Profile%20views&color=0e75b6&style=flat" alt="princee-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princee-tech" alt="princee-tech" /></a> </p>
